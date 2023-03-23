@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\bin\Debug\QT1_VendorMachine.exe.config
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\bin\Debug\QT1_VendorMachine.exe
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\bin\Debug\QT1_VendorMachine.pdb
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.frmVendor.resources
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.Properties.Resources.resources
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.exe
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.pdb
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.Form2.resources
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.Form3.resources
+C:\Users\Admin\source\repos\QT1_VendorMachine\QT1_VendorMachine\obj\Debug\QT1_VendorMachine.Form4.resources
